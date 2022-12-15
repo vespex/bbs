@@ -1,0 +1,24 @@
+2022-12-14 17:06:01,212 INFO 15484 [egg-schedule]: register schedule D:\work\bbs\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-14 17:06:01,212 INFO 15484 [egg-schedule]: register schedule D:\work\bbs\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-14 17:06:01,213 INFO 15484 [egg-schedule]: register schedule D:\work\bbs\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-14 17:06:01,877 INFO 20852 [Timer] D:\work\bbs\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 41038126ms at 2022-12-15 04:30:00.003
+2022-12-14 17:06:01,877 INFO 20852 [Timer] D:\work\bbs\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 24838123ms at 2022-12-15 00:00:00.000
+2022-12-14 17:06:01,878 INFO 20852 [Timer] D:\work\bbs\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 24839122ms at 2022-12-15 00:00:01.000
+2022-12-14 17:06:44,983 INFO 9344 [egg-schedule]: register schedule D:\work\bbs\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-14 17:06:44,983 INFO 9344 [egg-schedule]: register schedule D:\work\bbs\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-14 17:06:44,984 INFO 9344 [egg-schedule]: register schedule D:\work\bbs\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-14 17:06:45,656 INFO 12760 [Timer] D:\work\bbs\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 40994346ms at 2022-12-15 04:30:00.002
+2022-12-14 17:06:45,657 INFO 12760 [Timer] D:\work\bbs\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 24794343ms at 2022-12-15 00:00:00.000
+2022-12-14 17:06:45,657 INFO 12760 [Timer] D:\work\bbs\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 24795343ms at 2022-12-15 00:00:01.000
+2022-12-14 17:07:26,169 INFO 15588 [egg-schedule]: register schedule D:\work\bbs\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-14 17:07:26,169 INFO 15588 [egg-schedule]: register schedule D:\work\bbs\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-14 17:07:26,169 INFO 15588 [egg-schedule]: register schedule D:\work\bbs\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-14 17:07:43,178 INFO 15612 [egg-schedule]: register schedule D:\work\bbs\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-14 17:07:43,178 INFO 15612 [egg-schedule]: register schedule D:\work\bbs\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-14 17:07:43,178 INFO 15612 [egg-schedule]: register schedule D:\work\bbs\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2022-12-14 17:07:43,728 INFO 18056 [Timer] D:\work\bbs\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 40936275ms at 2022-12-15 04:30:00.003
+2022-12-14 17:07:43,728 INFO 18056 [Timer] D:\work\bbs\server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 24736272ms at 2022-12-15 00:00:00.000
+2022-12-14 17:07:43,728 INFO 18056 [Timer] D:\work\bbs\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 24737272ms at 2022-12-15 00:00:01.000
+2022-12-14 17:08:08,231 INFO 9124 [egg-schedule]: register schedule D:\work\bbs\server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2022-12-14 17:08:08,231 INFO 9124 [egg-schedule]: register schedule D:\work\bbs\server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2022-12-14 17:08:08,232 INFO 9124 [egg-schedule]: register schedule D:\work\bbs\server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
